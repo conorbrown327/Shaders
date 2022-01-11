@@ -1,0 +1,1 @@
+Used half-vector method for phong shading
